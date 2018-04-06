@@ -1,0 +1,6 @@
+C:\Users\dboullon\Desktop\Sobrecarga_operadores\Sobrecarga_operadores\bin\Debug\Sobrecarga_operadores.exe.config
+C:\Users\dboullon\Desktop\Sobrecarga_operadores\Sobrecarga_operadores\obj\Debug\Sobrecarga_operadores.csprojResolveAssemblyReference.cache
+C:\Users\dboullon\Desktop\Sobrecarga_operadores\Sobrecarga_operadores\bin\Debug\Sobrecarga_operadores.exe
+C:\Users\dboullon\Desktop\Sobrecarga_operadores\Sobrecarga_operadores\bin\Debug\Sobrecarga_operadores.pdb
+C:\Users\dboullon\Desktop\Sobrecarga_operadores\Sobrecarga_operadores\obj\Debug\Sobrecarga_operadores.exe
+C:\Users\dboullon\Desktop\Sobrecarga_operadores\Sobrecarga_operadores\obj\Debug\Sobrecarga_operadores.pdb
