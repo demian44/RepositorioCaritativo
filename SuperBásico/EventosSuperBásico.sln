@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilosSuperBásico", "EventosSuperBásico\HilosSuperBásico.csproj", "{F686524C-CC63-461B-8171-716069EC4F7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HilosSuperBásico", "HilosSuperBásico\HilosSuperBásico.csproj", "{F686524C-CC63-461B-8171-716069EC4F7D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventoSuperBasico", "EventoSuperBasico\EventoSuperBasico.csproj", "{579F1580-2AF2-4AFD-B6DF-934AF508B0AE}"
 EndProject
