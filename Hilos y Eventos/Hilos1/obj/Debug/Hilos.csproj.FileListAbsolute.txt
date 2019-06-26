@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\bin\Debug\Hilos1.exe.config
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\bin\Debug\Hilos1.exe
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\bin\Debug\Hilos1.pdb
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos1.Form1.resources
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos1.exe
+C:\Users\LENOVO\Desktop\Hilos1\Hilos1\obj\Debug\Hilos1.pdb
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\bin\Debug\Hilos1.exe.config
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\bin\Debug\Hilos1.exe
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\bin\Debug\Hilos1.pdb
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos1.Form1.resources
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos1.exe
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Hilos1\obj\Debug\Hilos1.pdb

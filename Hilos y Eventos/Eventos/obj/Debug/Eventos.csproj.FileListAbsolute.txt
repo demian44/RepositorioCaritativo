@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\bin\Debug\Eventos.exe
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\bin\Debug\Eventos.pdb
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.exe
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.pdb
+C:\Users\LENOVO\Desktop\Hilos1\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\LENOVO\Desktop\Hilos y Eventos\Eventos\obj\Debug\Eventos.pdb
